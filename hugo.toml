@@ -1,4 +1,4 @@
 baseURL = 'https://stumbra.co.uk/'
 locale = 'en-gb'
-title = 'Tea's corner of the web'
+title = "Tea's corner of the web"
 theme = 'digio-theme'
