@@ -14,7 +14,7 @@ Expect to see everything and nothing at the same time :D
 statusImage = "/status.png"
 
 # Change the status text
-statusText = "A way to let everyone know what you're up to..."
+statusText = "Stuff I'm doing..."
 
 # Change the currently watching image
 watchingImage = "/watching.png"
