@@ -6,8 +6,10 @@ portraitImage = "/portrait.png"
 introTitle = "Hey! I'm Tea (Tegan) ^_^"
 
 # Change the summary of the homepage
-introBody = """I'm a computer scientist with a passion for networking and an interest in all things tech! An infrastructure engineer by day, a wild cat by not day.\n\n
-Expect to see everything and nothing at the same time :D
+introBody = """infra engineer • linux goblin •
+building strange things\n\n
+writing about open source, infra,
+games and random nonsense
 """
 
 # Change the status image
