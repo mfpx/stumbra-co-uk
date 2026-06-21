@@ -35,7 +35,7 @@ There are two stories happening in parallel, the real Kasio's story, and her spa
 
 The music does absolute wonders for this game - 2 Mello did an absolutely fantastic job here. It can be insanely atmospheric, melancholic or energetic, nostalgic yet hopeful.
 
-Music made me cry at the game quite a few times, and I've played it several times. Because the game isn't voiced, the atmosphere it crafted purely through art, colours and music.
+Music made me cry at the game quite a few times, and I've played it several times. Because the game isn't voiced, the atmosphere is crafted purely through art, colours and music.
 
 ---
 
