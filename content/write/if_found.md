@@ -49,6 +49,8 @@ It matters to me so much that I planned to go to Achill (London to Dublin then b
 
 DREAMFEEL have said that the game is a combination of fiction and developer's personal experiences. Were Kasio a real person, I would just... hug her and tell her everything will be alright.
 
+---
+
 ### Closing thoughts
 
 This isn't a long game, perhaps only 3ish hours, depending on how quickly you can process a scene (and whether you have to stop to cry :D). I mean... it barely fits the definition of a game, it's more of a narrative experience.
