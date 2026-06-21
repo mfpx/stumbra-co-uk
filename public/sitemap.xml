@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/open-source/</loc>
-    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
+    <lastmod>2026-06-21T03:54:33+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/write/</loc>
+    <lastmod>2026-06-21T03:54:33+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gaming/</loc>
+    <lastmod>2026-06-21T03:54:33+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/write/if_found/</loc>
+    <lastmod>2026-06-21T03:54:33+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/life/</loc>
+    <lastmod>2026-06-21T03:54:33+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-06-21T03:54:33+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/write/</loc>
+    <lastmod>2026-06-21T03:54:33+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/open-source/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/write/test/</loc>
@@ -24,12 +39,6 @@
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/open-source/</loc>
-    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/write/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

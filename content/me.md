@@ -11,7 +11,8 @@ likes = [
     "cats",
     "guitars",
     "good documentation",
-    "automation"
+    "automation",
+    "physics"
 ]
 
 dislikes = [
