@@ -1075,3 +1075,21 @@ nav a:hover {
     grid-template-rows: repeat(2, minmax(0, 1fr));
   }
 }
+
+/*
+Force footer to the bottom of the page when content is short
+*/
+
+html,
+body {
+  min-height: 100vh;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+}
