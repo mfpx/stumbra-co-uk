@@ -16,14 +16,14 @@ games and random nonsense
 statusImage = "/status.png"
 
 # Change the status text
-statusText = "Stuff I'm doing..."
+statusText = "working, trying to not die of summer heat and working on a LAN node discovery library"
 
 # Change the currently watching image
-watchingImage = "/watching.png"
+watchingImage = "/listeningto.png"
 
 # Change the watching text
-watchingText = "How to create a Hugo theme from scratch — Berkay Çubuk // HugoConf 2023"
+watchingText = "Taylor Janzen - I Live In Patterns (feat. Alix Page) [Official Audio]"
 
 # Change the video URL
-watchingUrl = "https://www.youtube.com/watch?v=0WJ2lWNhqm8"
+watchingUrl = "https://www.youtube.com/watch?v=PPutRXXWe-Q"
 +++
