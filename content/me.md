@@ -19,17 +19,12 @@ dislikes = [
     "linux",
     "london rent",
     "people",
-    "manual processes",
-    "Example 5",
-    "Example 6"
+    "manual processes"
 ]
 
 hobbies = [
     "linux",
     "playing guitar",
-    "Example 3",
-    "Example 4",
-    "Example 5",
-    "Example 6"
+    "volunteering"
 ]
 +++
