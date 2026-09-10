@@ -16,14 +16,14 @@ games and random nonsense
 statusImage = "/status.png"
 
 # Change the status text
-statusText = "working, trying to not die of summer heat and working on a LAN node discovery library"
+statusText = "working, learning more makeup, discovering clothes, making friends"
 
 # Change the currently watching image
 watchingImage = "/listeningto.png"
 
 # Change the watching text
-watchingText = "Taylor Janzen - I Live In Patterns (feat. Alix Page) [Official Audio]"
+watchingText = "Taylor Janzen - I Live In Patterns (feat. Alix Page) "
 
 # Change the video URL
-watchingUrl = "https://www.youtube.com/watch?v=PPutRXXWe-Q"
+watchingUrl = "https://www.youtube.com/watch?v=BUQOpixGww4"
 +++
